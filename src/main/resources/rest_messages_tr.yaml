@@ -1,0 +1,32 @@
+#EXCEPTION LIST
+messages:
+  1001:
+    message: '%s idli ürün bulunamadı'
+    description: '%s idli ürün bulunamadı'
+  1002:
+    message: '%s idli müşteri bulunamadı'
+    description: '%s idli müşteri bulunamadı'
+  1003:
+    message: '%s bu telefon numarası sistemde mevcut'
+    description: '%s bu telefon numarası sistemde mevcut'
+  1004:
+    message: '%s bu mail adresi sistemde mevcut'
+    description: '%s bu mail numarası sistemde mevcut'
+  1005:
+    message: '%s bu alan boş bırakılamaz'
+    description: '%s bu alan boş bırakılamaz'
+  1006:
+    message: 'Mail adresi formatı yanlış'
+    description: 'Mail adresi formatı yanlış'
+  1007:
+    message: '%s bu kredi kartı sistemde kayıtlı'
+    description: '%s bu kredi kartı sistemde kayıtlı'
+  1008:
+    message: 'Kredi kartı numarası yanlış'
+    description: 'Kredi kartı numarası yanlış'
+  1009:
+    message: 'Ödeme tutarı 0 veya daha küçük olamaz'
+    description: 'Ödeme tutarı 0 veya daha küçük olamaz'
+  1010:
+    message: 'Stokta yeterli ürün yok'
+    description: 'Stokta yeterli ürün yok'
